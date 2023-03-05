@@ -13,6 +13,8 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=yellow)](https://api.whatsapp.com/send?phone=5519992530418&text=Ol%C3%A1%20Carlos%2C%20te%20encontrei%20no%20GitHub)
 <a href='mailto: dainize22@gmail.com'>![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
+![front-end-development](https://user-images.githubusercontent.com/110074548/222936621-7089b466-699e-4471-b65b-50f76180378f.gif)
+
 ## 🧰 Ferramentas para Desenvolvimento:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
@@ -59,6 +61,7 @@
 
 <hr/>
 <div align="center">
+   
    <a href="https://github.com/Gui2912">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gui2912&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
