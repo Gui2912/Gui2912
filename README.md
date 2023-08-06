@@ -5,11 +5,9 @@
 - 📚 Atualmente sou estudande de Desenvolvimento Web Full-Stack na <a href="https://kenzie.com.br/" target="_blank">Kenzie</a>;
 - :computer: Estou aprendendo as tecnologias referentes a desenvolvimento Front-End e Back-End
 - :calendar: Disponível para empregos ou freelancers. Busco oportunidades para adquirir experiência e aprender como se trabalha na prática.
-- 📫 LinkedIn disponível abaixo. <br>
-
 
 ## 🌐 Social:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/carlos-guilherme-de-souza-dainize-5271a9246/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/carlos-guilherme-de-souza-dainize-5271a9246/](https://www.linkedin.com/in/carlos-dainize/))
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=yellow)](https://api.whatsapp.com/send?phone=5519992530418&text=Ol%C3%A1%20Carlos%2C%20te%20encontrei%20no%20GitHub)
 <a href='mailto: dainize22@gmail.com'>![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
